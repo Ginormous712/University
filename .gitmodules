@@ -1,3 +1,6 @@
 [submodule "semester_5/Lab1/OOP"]
 	path = semester_5/Lab1/OOP
 	url = https://github.com/Ginormous712/OOP.git
+[submodule "semester_5/NM/Nonlinear_equation"]
+	path = semester_5/NM/Nonlinear_equation
+	url = https://github.com/Ginormous712/Nonlinear_equation.git
